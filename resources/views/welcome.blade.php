@@ -1,4 +1,4 @@
 <x-app-layout>
         <livewire:counter />
-            </x-app-layout>
+ </x-app-layout>
         
